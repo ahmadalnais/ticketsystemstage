@@ -1,0 +1,10 @@
+:root {
+  --primary: rgb(250, 167, 48);
+  --primary-dark: rgb(251, 166, 49);
+  --primary-70: rgb(250, 167, 48);
+  --primary-50: rgb(250, 167, 48);
+  --primary-30: rgb(250, 167, 48);
+  --primary-10: rgb(250, 167, 48);
+  --logo: #252d37;
+  --sidebar-icon: #FAA730;
+}
